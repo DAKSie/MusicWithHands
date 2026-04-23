@@ -106,3 +106,5 @@ docs/_build/
 *.swp
 *.swo
 *~
+bin/
+release/
